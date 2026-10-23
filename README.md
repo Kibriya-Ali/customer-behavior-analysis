@@ -42,4 +42,12 @@ This project is a comprehensive end-to-end analytics project using Myntra's cust
 **Dashboard Development:** Created DAX measures for dynamic time-intelligence and KPI reporting.
 
 
+## 📬 Let's Connect!
 
+I am actively seeking roles in Data Analytics and Business Intelligence. If you're a recruiter, hiring manager, or data enthusiast, I'd love to connect!
+
+Email: kibriyaali5@gmail.com
+
+LinkedIn: [Kibriya Ali](https://www.linkedin.com/in/kibriya-ali-756a46438/)
+
+Thank you for reviewing my portfolio project!
